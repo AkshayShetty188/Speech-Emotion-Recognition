@@ -16,7 +16,7 @@ st.set_page_config(
 page_bg_img = f"""
 <style>
 .stApp {{
-background-image: url("https://images.unsplash.com/photo-1602524201433-8d3ee6c8c10b?auto=format&fit=crop&w=1500&q=80");
+background-image: url("https://github.com/AkshayShetty188/Speech-Emotion-Recognition/blob/master/bg1.png");
 background-size: cover;
 background-attachment: fixed;
 background-position: center;
